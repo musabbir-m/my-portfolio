@@ -17,7 +17,7 @@ h1 {
     margin-bottom: 50px;
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 75px;
 }
